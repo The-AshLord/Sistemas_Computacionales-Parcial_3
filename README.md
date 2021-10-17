@@ -1,2 +1,3 @@
-# Sistemas_Computacionales-Parcial_3
-Código de nuestro Parcial 03 de Sistemas Computacionales 
+# SC-U3-2021-20
+Este proyecto está basado en este repositorio https://github.com/cirocosta/observer-c de Ciro Costa.
+Su uso tiene fines meramente académicos.

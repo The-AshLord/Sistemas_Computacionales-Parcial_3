@@ -2,7 +2,7 @@
 Este proyecto está basado en este repositorio https://github.com/cirocosta/observer-c de Ciro Costa.
 Su uso tiene fines meramente académicos.
 
-*Contiene las Modificacones Hechas para resolver:*
+*Contiene las modificaciones hechas para resolver:*
 
 - Punto 1
 

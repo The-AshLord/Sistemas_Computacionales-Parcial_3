@@ -9,3 +9,4 @@ Su uso tiene fines meramente académicos.
 - Punto 2
 
 - Punto 3
+Nota: el punto tres está en el directorio /Parcial-sistemas-3-main

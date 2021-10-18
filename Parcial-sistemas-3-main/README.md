@@ -1,1 +1,2 @@
-Parcial sistemas 3
+*Punto 3:*
+*Código en C#*
